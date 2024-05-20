@@ -57,11 +57,11 @@ Após criar seu usuário e senha, será redirecionado a outra página para cadas
 
 ![](https://github.com/feer-rodriguess90/Gest-o_De_Dados_Centro_Univ/blob/main/Images/Cadastro.png)
 
-## 👉🏼 Próximos passos
+## 👉🏻 Próximos passos
 
 - Fazer a ligação dos protótipos com os arquivos HTML, CSS e Java. 
 
-## 🤝 Agradecimentos
+## 🤝🏻 Agradecimentos
 
 - Este projeto foi inspirado pela disciplina do Projeto Integrador: Desenolviemento de Sistemas Orientado a Objetos, do Curso Análise e Desenvolvimento de Sistemas, da Faculdade SENAC.
 - Agradecimentos especiais aos colaboradores que ajudaram a moldar e melhorar este projeto.
