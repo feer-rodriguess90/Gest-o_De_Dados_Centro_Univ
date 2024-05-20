@@ -13,3 +13,19 @@ Repositório destinado ao trabalho do Projeto Integrador do SENAC. Integrantes d
 ### Objetivos
 
 O projeto tem como objetivo desenvolver um sistema de gestão de dados para um centro universitário, na qual o administrador (cliente) poderá cadastrar e manipular dados e informaçõoes dos alunos, professores e fornceredores dentro do ambiente desenvolvido.
+
+
+### Descrição das Telas
+
+* Início - 
+* Cadastro de Pessoa Física -
+* Cadastro de Pessoa Jurídica -
+* Cadastro Professores -
+* Cadastro de Fornecedores -
+* Cadastro de Alunos -
+
+
+### MER
+
+
+### Imagens Telas
