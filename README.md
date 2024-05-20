@@ -1,6 +1,6 @@
 # 👨‍🎓 Gestão de Dados Centro Univiversitário 
 
-### MODELAGEM DE PROJETO VOLTADO A GESTÃO DE DADOS DE UM CENTRO UNIVERSITÁRIO
+### Modelagem de projeto voltado a gestão de dados de um Centro Universitário
 Repositório destinado ao trabalho do Projeto Integrador do SENAC. Integrantes do grupo: 
 - ALDA AUXILIADORA GHISI FRIGI
 - AMANDA DUARTE DE ALMEIDA
