@@ -10,4 +10,6 @@ Repositório destinado ao trabalho do Projeto Integrador do SENAC. Integrantes d
 - FLAVIA APARECIDA LARA CARDOSO 
 - SAMARA RODRIGUES DOS SANTOS CUPERTINO
 
+### Objetivos
 
+O projeto tem como objetivo desenvolver um sistema de gestão de dados para um centro universitário, na qual o addministrador(cliente) poderá cadastrar e manipular dados e informaçõoes dos alunos, professores e fornceredores dentro do ambiente desenvolvido.
