@@ -7,7 +7,7 @@ Repositório destinado ao trabalho do Projeto Integrador do SENAC. Integrantes d
 - Bryan Silva
 - Carlos Barnabe Alves
 - Fernanda Rodrigues da Cunha
-- Flavia Cardoso
+- Flavia Aparecida Lara Cardoso
 - Samara Cupertino
 
 ### Objetivos
