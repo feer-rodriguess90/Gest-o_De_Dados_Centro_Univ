@@ -25,7 +25,9 @@ O projeto tem como objetivo desenvolver um sistema de gestão de dados para um c
 * Cadastro de Alunos -
 
 
-### MER
+### Diagrama de Classes UML
+
+![](https://github.com/feer-rodriguess90/Gest-o_De_Dados_Centro_Univ/blob/main/Imagem1.png)
 
 
 ### Imagens Telas
